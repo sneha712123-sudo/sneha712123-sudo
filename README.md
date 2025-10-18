@@ -1,3 +1,5 @@
+ <img width="3900" height="1890" alt="Add a subheading" src="https://github.com/user-attachments/assets/8e24e980-6877-4543-980c-293d7fbd4d8b" />
+
 # 💫 Hi 👋, I'm Sneha Das
 
 Email Me 👉 ✉️ **sneha712123@gmail.com** For Collaboration/Project or Anything Else. 
