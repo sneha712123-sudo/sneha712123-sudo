@@ -1,5 +1,13 @@
  <img width="3900" height="1890" alt="Add a subheading" src="https://github.com/user-attachments/assets/8e24e980-6877-4543-980c-293d7fbd4d8b" />
 
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawladaranik325-del&label=Profile%20views&color=0e75b6&style=flat" alt="hawladaranik325-del" /> </p>
+   <img align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/53a2c367-eefe-4bf8-9970-dd3feddd5c4e" />
+
+
+
 # 💫 Hi 👋, I'm Sneha Das
 
 Email Me 👉 ✉️ **sneha712123@gmail.com** For Collaboration/Project or Anything Else. 
@@ -10,6 +18,13 @@ Email Me 👉 ✉️ **sneha712123@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:**sneha712123@gmail.com**
 - 😄 **Profession:** Still a Student
 - ⚡ **Fun fact:** I love codes and codes Love's Me ❁´◡`❁
+
+
+
+
+
+
+
 
   
 ## 🏆 GitHub Trophies
